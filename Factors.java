@@ -2,10 +2,6 @@ import java.util.Scanner;
 
 /**
  *Created on 7/3/2014.
- *
- * Wanted to quickly make a command-line tool that will print the factors of a given number.
- * Simple, nothing ground-breaking here, all just for fun.
- *
  */
 
 public class Factors {
